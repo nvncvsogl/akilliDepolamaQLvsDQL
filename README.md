@@ -54,6 +54,5 @@ Ajanlar eğitildikten sonra, keşif tamamen kapatılarak ($\epsilon = 0$, greedy
 ## 🚀 Kurulum ve Çalıştırma
 
 ### 1. Depoyu Klonlayın
-```bash
 git clone [https://github.com/nvncvsogl/akilliDepolamaQLvsDQL.git](https://github.com/nvncvsogl/akilliDepolamaQLvsDQL.git)
 cd akilliDepolamaQLvsDQL
